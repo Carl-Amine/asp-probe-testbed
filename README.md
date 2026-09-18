@@ -23,3 +23,5 @@ Expect FAIL/WARN on C2, C3, C4, C6; MANUAL on C5; FAIL or UNKNOWN on C1
 depending on whether the token can read branch protection. If anything
 comes back PASS here, the probe or the permissions are wrong -- fix
 whichever it is before trusting a clean run on a real repo.
+
+Fork PR smoke test: confirming pull/{n}/head resolves cross-repo.
