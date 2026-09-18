@@ -25,3 +25,5 @@ comes back PASS here, the probe or the permissions are wrong -- fix
 whichever it is before trusting a clean run on a real repo.
 
 Fork PR smoke test: confirming pull/{n}/head resolves cross-repo.
+
+Second commit -- fresh evidence from a clean single worker process.
